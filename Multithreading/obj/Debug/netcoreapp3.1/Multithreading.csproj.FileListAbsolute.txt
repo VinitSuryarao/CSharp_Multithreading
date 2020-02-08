@@ -1,0 +1,11 @@
+C:\Vinit_Suryarao\Programs\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csprojAssemblyReference.cache
+C:\Vinit_Suryarao\Programs\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfoInputs.cache
+C:\Vinit_Suryarao\Programs\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfo.cs
+C:\Vinit_Suryarao\Programs\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.dll
+C:\Vinit_Suryarao\Programs\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.pdb
+C:\Vinit_Suryarao\Programs\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.exe
+C:\Vinit_Suryarao\Programs\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.deps.json
+C:\Vinit_Suryarao\Programs\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.json
+C:\Vinit_Suryarao\Programs\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.dev.json
+C:\Vinit_Suryarao\Programs\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.dll
+C:\Vinit_Suryarao\Programs\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.pdb
